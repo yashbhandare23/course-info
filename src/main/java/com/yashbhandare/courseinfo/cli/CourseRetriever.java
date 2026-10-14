@@ -24,7 +24,7 @@ public class CourseRetriever {
     }
 
     private static void retriveCourses(String authorId) {
-        LOG.info("Retrieving courses for author '{}'", authorId);
+        LOG.info("Retrieving courses for author: '{}'", authorId);
 
         CourseRetrieverService courseRetrieverService = new CourseRetrieverService();
     }
