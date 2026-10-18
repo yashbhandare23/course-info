@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Data Structures and Algorithms",
+    "category": "DSA",
+    "level": "Intermediate",
+    "durationHours": 40,
+    "author": "Yash Bhandare",
+    "completed": true
+  },
+  {
+    "title": "Low Level Design Fundamentals",
+    "category": "LLD",
+    "level": "Intermediate",
+    "durationHours": 20,
+    "author": "Yash Bhandare",
+    "completed": true
+  },
+  {
+    "title": "High Level System Design",
+    "category": "HLD",
+    "level": "Advanced",
+    "durationHours": 30,
+    "author": "Yash Bhandare",
+    "completed": false
+  },
+  {
+    "title": "Java SE 21",
+    "category": "Java",
+    "level": "Intermediate",
+    "durationHours": 25,
+    "author": "Yash Bhandare",
+    "completed": true
+  },
+  {
+    "title": "Spring Framework Core",
+    "category": "Spring",
+    "level": "Intermediate",
+    "durationHours": 18,
+    "author": "Yash Bhandare",
+    "completed": true
+  },
+  {
+    "title": "Spring Boot REST APIs",
+    "category": "Spring Boot",
+    "level": "Advanced",
+    "durationHours": 22,
+    "author": "Yash Bhandare",
+    "completed": true
+  },
+  {
+    "title": "PL/SQL Developer Guide",
+    "category": "PLSQL",
+    "level": "Intermediate",
+    "durationHours": 15,
+    "author": "Yash Bhandare",
+    "completed": false
+  },
+  {
+    "title": "AWS Essentials",
+    "category": "AWS",
+    "level": "Beginner",
+    "durationHours": 20,
+    "author": "Yash Bhandare",
+    "completed": true
+  },
+  {
+    "title": "AWS Serverless Applications",
+    "category": "AWS",
+    "level": "Advanced",
+    "durationHours": 16,
+    "author": "Yash Bhandare",
+    "completed": false
+  },
+  {
+    "title": "Docker Fundamentals",
+    "category": "Docker",
+    "level": "Beginner",
+    "durationHours": 10,
+    "author": "Yash Bhandare",
+    "completed": true
+  },
+  {
+    "title": "Docker for Java Developers",
+    "category": "Docker",
+    "level": "Intermediate",
+    "durationHours": 12,
+    "author": "Yash Bhandare",
+    "completed": true
+  },
+  {
+    "title": "Kubernetes Fundamentals",
+    "category": "Kubernetes",
+    "level": "Intermediate",
+    "durationHours": 24,
+    "author": "Yash Bhandare",
+    "completed": false
+  },
+  {
+    "title": "Kubernetes on AWS EKS",
+    "category": "Kubernetes",
+    "level": "Advanced",
+    "durationHours": 18,
+    "author": "Yash Bhandare",
+    "completed": false
+  },
+  {
+    "title": "Apache Kafka Fundamentals",
+    "category": "Kafka",
+    "level": "Intermediate",
+    "durationHours": 14,
+    "author": "Yash Bhandare",
+    "completed": true
+  },
+  {
+    "title": "Event-Driven Microservices with Kafka",
+    "category": "Kafka",
+    "level": "Advanced",
+    "durationHours": 20,
+    "author": "Yash Bhandare",
+    "completed": false
+  }
+]

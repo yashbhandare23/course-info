@@ -27,6 +27,8 @@ public class CourseRetriever {
         LOG.info("Retrieving courses for author: '{}'", authorId);
 
         CourseRetrieverService courseRetrieverService = new CourseRetrieverService();
+        String coursesToStore = courseRetrieverService.getCoursesFor(authorId);
+        LOG.info("Retrieved the following courses {}", coursesToStore);
     }
 }
 
