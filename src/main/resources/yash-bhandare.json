@@ -1,122 +1,112 @@
 [
   {
-    "title": "Data Structures and Algorithms",
-    "category": "DSA",
+    "title": "Java Fundamentals: HttpClient",
+    "id": "6428a9db-3dc0-40dd-9f5b-f3624bbc11a4",
     "level": "Intermediate",
-    "durationHours": 40,
-    "author": "Yash Bhandare",
-    "completed": true
+    "contentUrl": "/library/courses/java-fundamentals-httpclient",
+    "isRetired": false,
+    "contentRating": {
+      "averageRating": 4.8142858,
+      "numberOfRaters": 70
+    }
   },
   {
-    "title": "Low Level Design Fundamentals",
-    "category": "LLD",
+    "title": "What's New in Java 21",
+    "id": "da9fb269-cdaa-4984-9262-330ae78f24a4",
     "level": "Intermediate",
-    "durationHours": 20,
-    "author": "Yash Bhandare",
-    "completed": true
+    "contentUrl": "/library/courses/whats-new-java-21",
+    "isRetired": false,
+    "contentRating": {
+      "averageRating": 4.75,
+      "numberOfRaters": 28
+    }
   },
   {
-    "title": "High Level System Design",
-    "category": "HLD",
-    "level": "Advanced",
-    "durationHours": 30,
-    "author": "Yash Bhandare",
-    "completed": false
-  },
-  {
-    "title": "Java SE 21",
-    "category": "Java",
+    "title": "Working with the Java Module System (Java SE 11 Developer Certification 1Z0-819)",
+    "id": "6f3825dc-c59a-4a48-b007-1512a76b9972",
     "level": "Intermediate",
-    "durationHours": 25,
-    "author": "Yash Bhandare",
-    "completed": true
+    "contentUrl": "/library/courses/java-module-system-java-se-11-developer-certification-1z0-819",
+    "isRetired": false,
+    "contentRating": {
+      "averageRating": 4.707692,
+      "numberOfRaters": 65
+    }
   },
   {
-    "title": "Spring Framework Core",
-    "category": "Spring",
-    "level": "Intermediate",
-    "durationHours": 18,
-    "author": "Yash Bhandare",
-    "completed": true
-  },
-  {
-    "title": "Spring Boot REST APIs",
-    "category": "Spring Boot",
-    "level": "Advanced",
-    "durationHours": 22,
-    "author": "Yash Bhandare",
-    "completed": true
-  },
-  {
-    "title": "PL/SQL Developer Guide",
-    "category": "PLSQL",
-    "level": "Intermediate",
-    "durationHours": 15,
-    "author": "Yash Bhandare",
-    "completed": false
-  },
-  {
-    "title": "AWS Essentials",
-    "category": "AWS",
+    "title": "Domain-Driven Design: The Big Picture",
+    "id": "04a053b6-3b4e-41c6-9b78-fba4522a0bee",
     "level": "Beginner",
-    "durationHours": 20,
-    "author": "Yash Bhandare",
-    "completed": true
+    "contentUrl": "/library/courses/domain-driven-design-big-picture",
+    "isRetired": false,
+    "contentRating": {
+      "averageRating": 4.675676,
+      "numberOfRaters": 37
+    }
   },
   {
-    "title": "AWS Serverless Applications",
-    "category": "AWS",
-    "level": "Advanced",
-    "durationHours": 16,
-    "author": "Yash Bhandare",
-    "completed": false
-  },
-  {
-    "title": "Docker Fundamentals",
-    "category": "Docker",
+    "title": "Java SE: The Big Picture",
+    "id": "3514597d-487c-41ec-9a30-d55ba28e3089",
     "level": "Beginner",
-    "durationHours": 10,
-    "author": "Yash Bhandare",
-    "completed": true
+    "contentUrl": "/library/courses/java-se-17-big-picture",
+    "isRetired": false,
+    "contentRating": {
+      "averageRating": 4.5614033,
+      "numberOfRaters": 171
+    }
   },
   {
-    "title": "Docker for Java Developers",
-    "category": "Docker",
+    "title": "Building an Application Using Java SE",
+    "id": "1c6a8467-04a1-41fb-95b7-08e8938c4213",
     "level": "Intermediate",
-    "durationHours": 12,
-    "author": "Yash Bhandare",
-    "completed": true
+    "contentUrl": "/library/courses/java-se-17-building-application",
+    "isRetired": false,
+    "contentRating": {
+      "averageRating": 4.902439,
+      "numberOfRaters": 82
+    }
   },
   {
-    "title": "Kubernetes Fundamentals",
-    "category": "Kubernetes",
+    "title": "Setting up a Java Development Environment",
+    "id": "fdd102f2-6331-421f-a4de-5bdb36aa0ab5",
+    "level": "Beginner",
+    "contentUrl": "/library/courses/setting-up-java-development-environment",
+    "isRetired": false,
+    "contentRating": {
+      "averageRating": 4.678571,
+      "numberOfRaters": 308
+    }
+  },
+  {
+    "title": "What's New in Java 24",
+    "id": "6cf9f298-2993-4abd-b7a8-e1a99cfd3218",
     "level": "Intermediate",
-    "durationHours": 24,
-    "author": "Yash Bhandare",
-    "completed": false
+    "contentUrl": "/library/courses/whats-new-java-24",
+    "isRetired": false,
+    "contentRating": {
+      "averageRating": 4.9166665,
+      "numberOfRaters": 12
+    }
   },
   {
-    "title": "Kubernetes on AWS EKS",
-    "category": "Kubernetes",
-    "level": "Advanced",
-    "durationHours": 18,
-    "author": "Yash Bhandare",
-    "completed": false
-  },
-  {
-    "title": "Apache Kafka Fundamentals",
-    "category": "Kafka",
+    "title": "What's New in Java SE 18 & 19",
+    "id": "310ed7a6-f653-46ea-8421-1c8aeca4ff05",
     "level": "Intermediate",
-    "durationHours": 14,
-    "author": "Yash Bhandare",
-    "completed": true
+    "contentUrl": "/library/courses/java-se-18-whats-new",
+    "isRetired": false,
+    "contentRating": {
+      "averageRating": 4.888889,
+      "numberOfRaters": 18
+    }
   },
   {
-    "title": "Event-Driven Microservices with Kafka",
-    "category": "Kafka",
-    "level": "Advanced",
-    "durationHours": 20,
-    "author": "Yash Bhandare",
-    "completed": false
+    "title": "What's New in Java 16",
+    "id": "38a35ba5-9b29-4406-b828-b04dce822900",
+    "level": "Intermediate",
+    "contentUrl": "/library/courses/java-16-whats-new",
+    "isRetired": false,
+    "contentRating": {
+      "averageRating": 4.8974357,
+      "numberOfRaters": 39
+    }
   }
 ]
