@@ -7,6 +7,11 @@
     <groupId>com.yashbhandare</groupId>
     <artifactId>course-info</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>course-info-repository</module>
+        <module>course-info-cli</module>
+    </modules>
 
     <properties>
         <!--
