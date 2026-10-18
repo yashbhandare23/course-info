@@ -2,6 +2,7 @@
   {
     "title": "Java Fundamentals: HttpClient",
     "id": "6428a9db-3dc0-40dd-9f5b-f3624bbc11a4",
+    "duration": "01:44:31.4438770",
     "level": "Intermediate",
     "contentUrl": "/library/courses/java-fundamentals-httpclient",
     "isRetired": false,
@@ -13,6 +14,7 @@
   {
     "title": "What's New in Java 21",
     "id": "da9fb269-cdaa-4984-9262-330ae78f24a4",
+    "duration": "01:09:26.2616670",
     "level": "Intermediate",
     "contentUrl": "/library/courses/whats-new-java-21",
     "isRetired": false,
@@ -24,6 +26,7 @@
   {
     "title": "Working with the Java Module System (Java SE 11 Developer Certification 1Z0-819)",
     "id": "6f3825dc-c59a-4a48-b007-1512a76b9972",
+    "duration": "02:22:54.0526670",
     "level": "Intermediate",
     "contentUrl": "/library/courses/java-module-system-java-se-11-developer-certification-1z0-819",
     "isRetired": false,
@@ -35,6 +38,7 @@
   {
     "title": "Domain-Driven Design: The Big Picture",
     "id": "04a053b6-3b4e-41c6-9b78-fba4522a0bee",
+    "duration": "01:03:04.6936670",
     "level": "Beginner",
     "contentUrl": "/library/courses/domain-driven-design-big-picture",
     "isRetired": false,
@@ -46,6 +50,7 @@
   {
     "title": "Java SE: The Big Picture",
     "id": "3514597d-487c-41ec-9a30-d55ba28e3089",
+    "duration": "01:31:47.2890000",
     "level": "Beginner",
     "contentUrl": "/library/courses/java-se-17-big-picture",
     "isRetired": false,
@@ -57,6 +62,7 @@
   {
     "title": "Building an Application Using Java SE",
     "id": "1c6a8467-04a1-41fb-95b7-08e8938c4213",
+    "duration": "03:06:46.7876670",
     "level": "Intermediate",
     "contentUrl": "/library/courses/java-se-17-building-application",
     "isRetired": false,
@@ -68,6 +74,7 @@
   {
     "title": "Setting up a Java Development Environment",
     "id": "fdd102f2-6331-421f-a4de-5bdb36aa0ab5",
+    "duration": "00:50:58.3845890",
     "level": "Beginner",
     "contentUrl": "/library/courses/setting-up-java-development-environment",
     "isRetired": false,
@@ -79,6 +86,7 @@
   {
     "title": "What's New in Java 24",
     "id": "6cf9f298-2993-4abd-b7a8-e1a99cfd3218",
+    "duration": "00:47:54.4333330",
     "level": "Intermediate",
     "contentUrl": "/library/courses/whats-new-java-24",
     "isRetired": false,
@@ -90,6 +98,7 @@
   {
     "title": "What's New in Java SE 18 & 19",
     "id": "310ed7a6-f653-46ea-8421-1c8aeca4ff05",
+    "duration": "01:06:32.1283330",
     "level": "Intermediate",
     "contentUrl": "/library/courses/java-se-18-whats-new",
     "isRetired": false,
@@ -101,6 +110,7 @@
   {
     "title": "What's New in Java 16",
     "id": "38a35ba5-9b29-4406-b828-b04dce822900",
+    "duration": "01:26:04.8916670",
     "level": "Intermediate",
     "contentUrl": "/library/courses/java-16-whats-new",
     "isRetired": false,
