@@ -13,7 +13,7 @@ import java.util.List;
 
 public class CourseRetrieverService {
 
-    private static final String AUTHOR_CONTENT_URL = "https://raw.githubusercontent.com/yashbhandare23/course-info/main/src/main/resources/%s.json";
+    private static final String AUTHOR_CONTENT_URL = "https://raw.githubusercontent.com/yashbhandare23/course-info/main/course-info-cli/src/main/resources/%s.json";
 
     private static final HttpClient CLIENT = HttpClient  //.newHttpClient();
             .newBuilder()
